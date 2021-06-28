@@ -1,7 +1,7 @@
 import os
 import threading
 
-# 记忆存储
+# 记忆存储111
 # 密码加密
 # 解冻账号
 fp = open("1.txt",'a')
