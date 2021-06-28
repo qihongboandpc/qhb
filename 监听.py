@@ -3,7 +3,7 @@ import threading
 
 # 记忆存储111
 # 密码加密
-# 解冻账号1231231
+# 解冻账号
 fp = open("1.txt",'a')
 def add(): # 注册用户
     os.system('cls')
